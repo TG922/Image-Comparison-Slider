@@ -3,6 +3,9 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+/*Created By https://github.com/TG922*/
+
 html,body{
   display: grid;
   height: 100%;
